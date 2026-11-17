@@ -65,7 +65,7 @@ Proyecto web para organizar y documentar máquinas de ciberseguridad y laborator
 
 **Tecnologías:** HTML5, CSS3, JavaScript.
 
-[Ver repositorio](https://github.com/gerardogonzalez0264gg/Maquinas-Completadas)
+[Ver repositorio](https://github.com/gerardogonzalez0264gg/portfolio-ingenieria-informatica/tree/main/Desarrollo_de_Software/Maquinas_Completadas)
 
 ---
 
