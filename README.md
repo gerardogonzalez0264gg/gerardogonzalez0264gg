@@ -63,37 +63,7 @@ Especializarme en ciberseguridad
 
 ## Proyectos destacados
 
-### 01. M-NMAP — Escáner de puertos en Python
-
-Escáner de puertos TCP desarrollado en Python, inspirado en Nmap.
-
-- Escaneo de puertos específicos y rangos personalizados.
-- Escaneo concurrente mediante ThreadPoolExecutor.
-- Identificación de servicios y captura de banners.
-- Perfiles de velocidad de escaneo.
-
-**Tecnologías:** Python, Socket, ThreadPoolExecutor.
-
-[Ver repositorio](https://github.com/gerardogonzalez0264gg/M-NMAP)
-
----
-
-### 02. Aula Viva — Desarrollo y DevSecOps
-
-Proyecto académico enfocado en el desarrollo de aplicaciones y automatización de infraestructura.
-
-- Servicios de aplicación mediante Docker.
-- Integración con base de datos PostgreSQL.
-- Infraestructura con Kubernetes y Terraform.
-- Flujos de trabajo GitOps y automatización de despliegues.
-
-**Tecnologías:** Docker, PostgreSQL, Kubernetes, Terraform, GitHub Actions.
-
-[Ver repositorio](https://github.com/gerardogonzalez0264gg/Aula_Viva)
-
----
-
-### 03. Máquinas de Ciberseguridad — TryHackMe
+### 01. Máquinas de Ciberseguridad — TryHackMe
 
 Proyecto web para organizar y documentar máquinas de ciberseguridad y laboratorios prácticos completados.
 
@@ -105,6 +75,37 @@ Proyecto web para organizar y documentar máquinas de ciberseguridad y laborator
 **Tecnologías:** HTML5, CSS3, JavaScript.
 
 [Ver repositorio](https://github.com/gerardogonzalez0264gg/Maquinas-Completadas)
+
+---
+
+### 02. App RRHH + API REST
+
+Aplicación de gestión de recursos humanos con una API REST para administrar información de empleados.
+
+- Gestión de empleados y usuarios.
+- Operaciones CRUD para administrar registros.
+- Historial de remuneraciones.
+- Autenticación, seguridad y validación de datos.
+- Frontend y backend separados.
+
+**Tecnologías:** Java, Spring Boot, Spring Security, React, JavaScript, H2 Database.
+
+[Ver repositorio](https://github.com/gerardogonzalez0264gg/portfolio-ingenieria-informatica/tree/main/Desarrollo_de_Software/App_RRHH_%2B_API_REST)
+
+---
+
+### 03. Aula Viva — Desarrollo y DevSecOps
+
+Proyecto académico enfocado en el desarrollo de aplicaciones y automatización de infraestructura.
+
+- Servicios de aplicación mediante Docker.
+- Integración con base de datos PostgreSQL.
+- Infraestructura con Kubernetes y Terraform.
+- Flujos de trabajo GitOps y automatización de despliegues.
+
+**Tecnologías:** Docker, PostgreSQL, Kubernetes, Terraform, GitHub Actions.
+
+[Ver repositorio](https://github.com/gerardogonzalez0264gg/Aula_Viva)
 
 ---
 
