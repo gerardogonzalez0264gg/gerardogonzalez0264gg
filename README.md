@@ -2,103 +2,105 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:001a12,50:003d2b,100:008f5a&height=180&section=header&text=GERARDO%20GONZ%C3%81LEZ&fontSize=40&fontColor=00ff88&animation=fadeIn&fontAlignY=45&desc=CIBERSEGURIDAD%20%7C%20REDES%20%7C%20DESARROLLO%20PYTHON&descAlignY=70&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:001a12,50:003d2b,100:008f5a&height=250&section=header&text=GERARDO%20GONZ%C3%81LEZ&fontSize=45&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=CIBERSEGURIDAD%20%7C%20REDES%20%7C%20DESARROLLO%20PYTHON&descAlignY=60&descSize=17" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+Developer;Networking+%26+Linux;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Entusiasta+de+la+Ciberseguridad;Desarrollador+Python;Redes+%26+Linux;Aprendiendo+y+creando+constantemente" />
 
 </div>
 
-## `whoami`
+## `quién soy`
 
 ```bash
 Gerardo González
-Computer Science Engineering Student
-Cybersecurity | Networking | Python Development
+Estudiante de Ingeniería en Informática
 
-Currently learning:
-- Cybersecurity and penetration testing
-- Network security
-- Python development
-- Cloud and DevSecOps
+Áreas principales:
+- Ciberseguridad
+- Redes y administración de sistemas
+- Desarrollo con Python
+- Cloud y DevSecOps
+
+Actualmente enfocado en aprender, practicar y desarrollar
+proyectos tecnológicos y de ciberseguridad.
 ```
 
-## Areas of Interest
+## Áreas de interés
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/🔐_CYBERSECURITY-008F5A?style=for-the-badge&labelColor=008F5A" /></a>
-<a href="#"><img src="https://img.shields.io/badge/🌐_NETWORKING-008F5A?style=for-the-badge&labelColor=008F5A" /></a>
-<a href="#"><img src="https://img.shields.io/badge/🐍_PYTHON_DEVELOPMENT-008F5A?style=for-the-badge&labelColor=008F5A" /></a>
-<a href="#"><img src="https://img.shields.io/badge/☁️_CLOUD_&_DEVSECOPS-008F5A?style=for-the-badge&labelColor=008F5A" /></a>
+<img src="https://img.shields.io/badge/🔐_CIBERSEGURIDAD-006B45?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_REDES-006B45?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🐍_DESARROLLO_PYTHON-006B45?style=for-the-badge" />
+<img src="https://img.shields.io/badge/☁️_CLOUD_&_DEVSECOPS-006B45?style=for-the-badge" />
 
 </div>
 
-## Technologies & Tools
+## Tecnologías y herramientas
 
 <div align="center">
 
-**Programming & Development**
+**Programación y desarrollo**
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,spring,flask" />
 
-**Databases**
+**Bases de datos**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
-**Systems, Infrastructure & Tools**
+**Sistemas, infraestructura y herramientas**
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kubernetes,terraform,aws" />
 
 </div>
 
-## Featured Projects
+## Proyectos destacados
 
-### 01. M-NMAP — Python Port Scanner
+### 01. M-NMAP — Escáner de puertos en Python
 
-A TCP port scanner inspired by Nmap, developed in Python.
+Escáner de puertos TCP desarrollado en Python, inspirado en Nmap.
 
-- Port scanning and custom port ranges.
-- Concurrent scanning using ThreadPoolExecutor.
-- Service identification and banner grabbing.
-- Configurable scanning profiles.
+- Escaneo de puertos específicos y rangos personalizados.
+- Escaneo concurrente mediante ThreadPoolExecutor.
+- Identificación de servicios y captura de banners.
+- Perfiles de velocidad de escaneo.
 
-**Technologies:** Python, Socket, ThreadPoolExecutor.
+**Tecnologías:** Python, Socket, ThreadPoolExecutor.
 
-[View Repository](https://github.com/gerardogonzalez0264gg/M-NMAP)
+[Ver repositorio](https://github.com/gerardogonzalez0264gg/M-NMAP)
 
 ---
 
-### 02. Aula Viva — DevSecOps & GitOps
+### 02. Aula Viva — Desarrollo y DevSecOps
 
-Academic project focused on application development and infrastructure automation.
+Proyecto académico enfocado en el desarrollo de aplicaciones y automatización de infraestructura.
 
-- Application services using Docker.
-- PostgreSQL database integration.
-- Kubernetes and Terraform infrastructure.
-- GitOps workflows and deployment automation.
+- Servicios de aplicación mediante Docker.
+- Integración con base de datos PostgreSQL.
+- Infraestructura con Kubernetes y Terraform.
+- Flujos de trabajo GitOps y automatización de despliegues.
 
-**Technologies:** Docker, PostgreSQL, Kubernetes, Terraform, GitHub Actions.
+**Tecnologías:** Docker, PostgreSQL, Kubernetes, Terraform, GitHub Actions.
 
-[View Repository](https://github.com/gerardogonzalez0264gg/Aula_Viva)
+[Ver repositorio](https://github.com/gerardogonzalez0264gg/Aula_Viva)
 
 ---
 
 ### 03. Máquinas de Ciberseguridad — TryHackMe
 
-A web project to organize and document completed cybersecurity machines and practical exercises.
+Proyecto web para organizar y documentar máquinas de ciberseguridad y laboratorios prácticos completados.
 
-- Machine catalog and searchable content.
-- Enumeration and vulnerability analysis.
-- Exploitation techniques and privilege escalation documentation.
-- Tools and commands used during labs.
+- Catálogo de máquinas y contenido organizado.
+- Enumeración y análisis de vulnerabilidades.
+- Documentación de técnicas de explotación y escalada de privilegios.
+- Registro de herramientas y comandos utilizados.
 
-**Technologies:** HTML5, CSS3, JavaScript.
+**Tecnologías:** HTML5, CSS3, JavaScript.
 
-[View Repository](https://github.com/gerardogonzalez0264gg/Maquinas-Completadas)
+[Ver repositorio](https://github.com/gerardogonzalez0264gg/Maquinas-Completadas)
 
 ---
 
-## GitHub Statistics
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -110,14 +112,14 @@ A web project to organize and document completed cybersecurity machines and prac
 
 </div>
 
-## Current Objectives
+## Objetivos actuales
 
 ```text
-[+] Strengthen cybersecurity fundamentals
-[+] Improve Python development skills
-[+] Practice penetration testing
-[+] Learn cloud security and DevSecOps
-[+] Build practical cybersecurity projects
+[+] Fortalecer mis conocimientos en ciberseguridad
+[+] Mejorar mis habilidades de desarrollo con Python
+[+] Practicar pruebas de penetración
+[+] Aprender seguridad en la nube y DevSecOps
+[+] Desarrollar proyectos prácticos de ciberseguridad
 ```
 
 <div align="center">
