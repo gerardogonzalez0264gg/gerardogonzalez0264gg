@@ -2,26 +2,36 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:001a12,50:003d2b,100:008f5a&height=250&section=header&text=GERARDO%20GONZ%C3%81LEZ&fontSize=45&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=CIBERSEGURIDAD%20%7C%20REDES%20%7C%20DESARROLLO%20PYTHON&descAlignY=60&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a12,100:003d2b&height=250&section=header&text=GERARDO%20GONZ%C3%81LEZ&fontSize=45&fontColor=00ff88&fontAlignY=40&desc=CIBERSEGURIDAD%20%7C%20REDES%20%7C%20DESARROLLO%20PYTHON&descAlignY=60&descSize=17" width="100%" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Entusiasta+de+la+Ciberseguridad;Desarrollador+Python;Redes+%26+Linux;Aprendiendo+y+creando+constantemente" />
 
 </div>
 
-## `quién soy`
+## `whoami`
 
 ```bash
-Gerardo González
+┌──(gerardo㉿kali)-[~]
+└─$ whoami
+gerardo
+
+┌──(gerardo㉿kali)-[~]
+└─$ id
 Estudiante de Ingeniería en Informática
 
-Áreas principales:
-- Ciberseguridad
-- Redes y administración de sistemas
-- Desarrollo con Python
-- Cloud y DevSecOps
+┌──(gerardo㉿kali)-[~]
+└─$ cat intereses.txt
+Ciberseguridad
+Redes y administración de sistemas
+Desarrollo con Python
+Cloud y DevSecOps
 
-Actualmente enfocado en aprender, practicar y desarrollar
-proyectos tecnológicos y de ciberseguridad.
+┌──(gerardo㉿kali)-[~]
+└─$ cat objetivos.txt
+Aprender constantemente
+Desarrollar proyectos prácticos
+Fortalecer mis habilidades técnicas
+Especializarme en ciberseguridad
 ```
 
 ## Áreas de interés
@@ -114,16 +124,19 @@ Proyecto web para organizar y documentar máquinas de ciberseguridad y laborator
 
 ## Objetivos actuales
 
-```text
-[+] Fortalecer mis conocimientos en ciberseguridad
-[+] Mejorar mis habilidades de desarrollo con Python
+```bash
+┌──(gerardo㉿kali)-[~]
+└─$ cat progreso.txt
+
+[+] Fortalecer conocimientos en ciberseguridad
+[+] Mejorar habilidades de desarrollo con Python
 [+] Practicar pruebas de penetración
 [+] Aprender seguridad en la nube y DevSecOps
-[+] Desarrollar proyectos prácticos de ciberseguridad
+[+] Construir proyectos prácticos
 ```
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a12,50:003d2b,100:008f5a&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a12,100:003d2b&height=100&section=footer" width="100%" />
 
 </div>
