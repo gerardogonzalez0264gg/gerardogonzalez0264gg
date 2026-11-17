@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a12,100:003d2b&height=250&section=header&text=GERARDO%20GONZ%C3%81LEZ&fontSize=45&fontColor=00ff88&fontAlignY=38&desc=CIBERSEGURIDAD%20%7C%20REDES%20%7C%20DESARROLLO%20PYTHON&descAlignY=55&descSize=17&descColor=00ff88" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:063b25,100:00ff88&height=190&section=header&text=GERARDO%20GONZ%C3%81LEZ&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=CIBERSEGURIDAD%20%7C%20REDES%20%7C%20DESARROLLO%20PYTHON&descAlignY=60&descSize=15" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Entusiasta+de+la+Ciberseguridad;Desarrollador+Python;Redes+%26+Linux;Aprendiendo+y+creando+constantemente" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Especializaci%C3%B3n+en+Ciberseguridad;Aprender.+Construir.+Proteger" alt="Texto animado" />
 
 </div>
 
