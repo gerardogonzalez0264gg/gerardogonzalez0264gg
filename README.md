@@ -32,15 +32,6 @@ Fortalecer mis habilidades técnicas
 Especializarme en ciberseguridad
 ```
 
-## Áreas de interés
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🔐_CIBERSEGURIDAD-006B45?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🌐_REDES-006B45?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🐍_DESARROLLO_PYTHON-006B45?style=for-the-badge" />
-<img src="https://img.shields.io/badge/☁️_CLOUD_&_DEVSECOPS-006B45?style=for-the-badge" />
-
 </div>
 
 ## Tecnologías y herramientas
@@ -120,19 +111,6 @@ Proyecto académico enfocado en el desarrollo de aplicaciones y automatización 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerardogonzalez0264gg&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
 
 </div>
-
-## Objetivos actuales
-
-```bash
-┌──(gerardo㉿kali)-[~]
-└─$ cat progreso.txt
-
-[+] Fortalecer conocimientos en ciberseguridad
-[+] Mejorar habilidades de desarrollo con Python
-[+] Practicar pruebas de penetración
-[+] Aprender seguridad en la nube y DevSecOps
-[+] Construir proyectos prácticos
-```
 
 <div align="center">
 
