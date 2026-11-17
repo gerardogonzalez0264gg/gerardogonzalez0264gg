@@ -1,10 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071a12,100:0b2b1d&height=220&section=header&text=GERARDO%20GONZ%C3%81LEZ&fontSize=45&fontColor=00ff88&fontAlignY=38&desc=CIBERSEGURIDAD%20%7C%20REDES%20%7C%20DESARROLLO%20PYTHON&descAlignY=55&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,35:101B35,70:073B36,100:003B2F&height=230&section=header&text=GERARDO%20GONZ%C3%81LEZ&fontSize=46&fontColor=00E5FF&fontAlignY=38&desc=CIBERSEGURIDAD%20%7C%20REDES%20%7C%20DESARROLLO%20PYTHON&descAlignY=56&descSize=17&descColor=39FF14" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Entusiasta+de+la+Ciberseguridad;Desarrollador+Python;Redes+%26+Linux;Aprendiendo+y+creando+constantemente" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Iniciando+sesion...;Explorando+el+mundo+de+la+ciberseguridad;Python+%7C+Linux+%7C+Networking;Think+like+a+hacker.+Build+like+an+engineer." />
 
 </div>
+
 ## `whoami`
 
 ```bash
